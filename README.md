@@ -82,6 +82,6 @@ License
 This project is open source and available under the MIT License.
 Contact
 
-For any questions or suggestions, please contact the author at harshkumar@example.com.
+For any questions or suggestions, please contact the author.
 
 Enjoy your banking experience with our chatbot!
