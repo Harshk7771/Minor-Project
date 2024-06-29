@@ -20,7 +20,7 @@ This is a Python-based chatbot for internet banking services. It allows users to
 
 1. **Clone the repository:**
 
-   git clone https://github.com/your-username/internet-banking-chatbot.git
+   git clone https://github.com/Harshk7771/Minor-Project
    cd internet-banking-chatbot
 
     Run the application:
